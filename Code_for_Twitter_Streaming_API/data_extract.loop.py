@@ -4,7 +4,7 @@ import pandas as pd
 
 #create the list of dictinary formatted strings by extracting data item
 #from twitter API scrape
-#files = ['twtgun3.24.1.txt', 'twtgun3.24.2.txt','twtgun3.24.3.txt', 'twtgun3.24.1.txt']
+#files = ['twtgun3.24.1.txt', 'twtgun3.24.2.txt','twtgun3.24.3.txt', 'twtgun3.24.4.txt']
 
 for i in range(1,11):
 
