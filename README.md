@@ -5,4 +5,5 @@ I acquired twitter streaming data using Tweepy library, converted it to datafram
 
 After tokenized text data with NLTK library and removed stop words, found out the most frequently used word and # hashtags and visualize when each word and # hashtags trended during the demonstration. 
 
-Next step is to figure out geographic location affect if the attitude toward gun control is positive or negative. (Using Cluster).
+Next step is to figure out if geographic locations (ex. Blue States
+vs Red States) affect the attitude toward gun control (positive or negative). (Using Cluster).
